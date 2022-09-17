@@ -72,3 +72,6 @@
 <p align="center">
      Блок стикеров
 </p>
+
+## Сбор данных
+Тестовые изображения вместе с файлом разметки размещены [здесь](https://github.com/ITrosh/Intelligent-Placer/tree/develop/photos/test%20examples)
