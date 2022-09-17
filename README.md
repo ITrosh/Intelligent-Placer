@@ -21,53 +21,53 @@
 ## Предметы
 В качестве предметов были выбраны:
 <p align="center">
-    <img src="photos/scissors.jpg" alt="scissors"/>
+    <img src="photos/items/scissors.jpg" alt="scissors"/>
     Ножницы
 </p>
 
 <p align="center">
-    <img src="photos/spander.jpg" alt="spander"/>
+    <img src="photos/items/spander.jpg" alt="spander"/>
     Эспандер
 </p>
 
 <p align="center">
-    <img src="photos/staple.jpg" alt="staple"/>
+    <img src="photos/items/staple.jpg" alt="staple"/>
     Скрепка
 </p>
 
 <p align="center">
-    <img src="photos/USB flash drive.jpg" alt="USB flash drive"/>
+    <img src="photos/items/USB flash drive.jpg" alt="USB flash drive"/>
     Флешка
 </p>
 
 <p align="center">
-    <img src="photos/marker.jpg" alt="marker"/>
+    <img src="photos/items/marker.jpg" alt="marker"/>
     Маркер
 </p>
 
 <p align="center">
-    <img src="photos/anti-stapler.jpg" alt="anti-stapler"/>
+    <img src="photos/items/anti-stapler.jpg" alt="anti-stapler"/>
     Антистеплер
 </p>
 
 
 <p align="center">
-    <img src="photos/line.jpg" alt="line"/>
+    <img src="photos/items/line.jpg" alt="line"/>
     Линейка
 </p>
 
 <p align="center">
-    <img src="photos/sharpener.jpg" alt="sharpener"/>
+    <img src="photos/items/sharpener.jpg" alt="sharpener"/>
     Точилка
 </p>
 
 <p align="center">
-    <img src="photos/glue stick.jpg" alt="glue stick"/>
+    <img src="photos/items/glue stick.jpg" alt="glue stick"/>
     Клей-карандаш
 </p>
 
 <p align="center">
-    <img src="photos/block of stickers.jpg" alt="block of stickers"/>
+    <img src="photos/items/block of stickers.jpg" alt="block of stickers"/>
 </p>
 <p align="center">
      Блок стикеров
