@@ -1,0 +1,16 @@
+View1_Conf1 - False
+View1_Conf2 - False
+View1_Conf3 - False
+View1_Conf4 - False
+View2_Conf1 - True
+View2_Conf2 - False
+View2_Conf3 - False
+View3_Conf1 - True
+View3_Conf2 - False
+View3_Conf3 - True
+View4_Conf1 - False
+View4_Conf2 - True
+View4_Conf3 - True
+View5_Conf1 - True
+View5_Conf2 - False
+View5_Conf3 - False
